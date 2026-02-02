@@ -1,4 +1,4 @@
-# 👁️ Fsociety Justice DB Scanner
+# 👁️ EpsteinList-OSINT
 
 > "Control is an illusion."
 
@@ -17,35 +17,32 @@ A sophisticated OSINT (Open Source Intelligence) tool designed to automate the s
 ## 🚀 Installation
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR-USERNAME/Fsociety-Justice-DB-Scanner.git](https://github.com/YOUR-USERNAME/Fsociety-Justice-DB-Scanner.git)
-   cd Fsociety-Justice-DB-Scanner
-
+   ```
+   git clone [https://github.com/Ys6aWasTaken/EpsteinList-OSINT.git](https://github.com/Ys6aWasTaken/EpsteinList-OSINT.git)
+   cd EpsteinList-OSINT
+   
 Install Dependencies:
     
     pip install -r requirements.txt
+Prepare your target list: Edit the names.txt file included in the repository. Add your targets (one per line).
 
-💻 Usage
+Run the tool:
 
-    Prepare your target list: Edit the names.txt file and add names (one per line or separated by newlines).
+      python Searcher.py
 
-    Run the tool:
-    Bash
+Follow the on-screen prompts:
 
-    python fsociety_ultimate.py
+    Select Input Method.
 
-    Follow the on-screen prompts:
+    Solve the CAPTCHA when the browser opens.
 
-        Select Input Method.
-
-        Solve the CAPTCHA when the browser opens.
-
-        Watch the terminal for live matches.
-
+    Watch the terminal for live matches.
+    
 ⚠️ Disclaimer
 
 This tool is for educational purposes and public data research only. All data is retrieved from the publicly available US Department of Justice website (justice.gov). The creator is not responsible for any misuse of this tool.
 
 Created by Ys6a // Fsociety
+
 
 
