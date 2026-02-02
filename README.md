@@ -20,3 +20,31 @@ A sophisticated OSINT (Open Source Intelligence) tool designed to automate the s
    ```bash
    git clone [https://github.com/YOUR-USERNAME/Fsociety-Justice-DB-Scanner.git](https://github.com/YOUR-USERNAME/Fsociety-Justice-DB-Scanner.git)
    cd Fsociety-Justice-DB-Scanner
+
+    Install Dependencies:
+    Bash
+
+    pip install -r requirements.txt
+
+💻 Usage
+
+    Prepare your target list: Edit the names.txt file and add names (one per line or separated by newlines).
+
+    Run the tool:
+    Bash
+
+    python fsociety_ultimate.py
+
+    Follow the on-screen prompts:
+
+        Select Input Method.
+
+        Solve the CAPTCHA when the browser opens.
+
+        Watch the terminal for live matches.
+
+⚠️ Disclaimer
+
+This tool is for educational purposes and public data research only. All data is retrieved from the publicly available US Department of Justice website (justice.gov). The creator is not responsible for any misuse of this tool.
+
+Created by Ys6a // Fsociety
