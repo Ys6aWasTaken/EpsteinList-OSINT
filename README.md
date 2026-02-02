@@ -21,8 +21,8 @@ A sophisticated OSINT (Open Source Intelligence) tool designed to automate the s
    git clone [https://github.com/YOUR-USERNAME/Fsociety-Justice-DB-Scanner.git](https://github.com/YOUR-USERNAME/Fsociety-Justice-DB-Scanner.git)
    cd Fsociety-Justice-DB-Scanner
 
-    Install Dependencies:
-    Bash
+Install Dependencies:
+    ```bash
 
     pip install -r requirements.txt
 
@@ -48,3 +48,4 @@ A sophisticated OSINT (Open Source Intelligence) tool designed to automate the s
 This tool is for educational purposes and public data research only. All data is retrieved from the publicly available US Department of Justice website (justice.gov). The creator is not responsible for any misuse of this tool.
 
 Created by Ys6a // Fsociety
+
